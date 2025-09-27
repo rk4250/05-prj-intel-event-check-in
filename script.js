@@ -10,7 +10,7 @@ const progressBar = document.getElementById("progressBar");
 const teamCounters = {
   water: document.getElementById("waterCount"),
   zero: document.getElementById("zeroCount"),
-  power: document.getElementById("powerCount"); 
+  power: document.getElementById("powerCount"), 
 };
 
 // Attendance data
